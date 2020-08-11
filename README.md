@@ -1,4 +1,4 @@
-Project Name: Credit Card Fraud Detection
+Project Name: Credit Card Fraud Detection <br>
 Author Name: Siddhant Sinha
 Project Date: 2nd Week of March 2020
 
